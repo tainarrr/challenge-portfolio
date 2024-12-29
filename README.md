@@ -16,9 +16,9 @@ O site inclui:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Ferramentas Utilizadas
 
-As tecnologias aplicadas neste projeto são:
+As ferramentas aplicadas neste projeto são:
 - **HTML5**: Estrutura e organização do conteúdo.
 - **CSS3**: Estilização e design responsivo.
 - **JavaScript**: Interatividade e validações.
